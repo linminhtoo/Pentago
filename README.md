@@ -1,5 +1,6 @@
 # Pentago
-The game of Pentago, for CM4043
+The game of Pentago, for CM4043, made by the 3 of us (Min Htoo, Cynthia, Wesley) which was well-received by the whole class and helped us ace the module.
+Our presentation slides are [here (click me)](https://entuedu-my.sharepoint.com/:p:/g/personal/linmin001_e_ntu_edu_sg/ERE_mJxKP1BIrPYx9VrYYAUBC8CIkLnzQf7dFcozQfvClQ?e=9QZSlf)
 - Developing the game is mostly manipulating numpy/python functions, which is a fun coding exercise,
 - plus building test cases to ensure everything works before we make more complex functions.
 - **The AI was the most challenging part** - see minimax.py
